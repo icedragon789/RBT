@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="RBT" targetName="RBT" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="27efc1d8-65e4-4492-9757-123c3745aa74" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1bSMdxIJJ5MNEhOI7RgTCglMUQB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager">
+    <configuration name="RBT" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="RBT" TARGET_NAME="RBT" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="RBT" RUN_TARGET_NAME="RBT">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="27efc1d8-65e4-4492-9757-123c3745aa74" name="Default Changelist" comment="" />
+      <created>1588621132305</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588621132305</updated>
+      <workItem from="1588621133673" duration="1631000" />
+      <workItem from="1588722294618" duration="13264000" />
+      <workItem from="1589043992728" duration="106000" />
+      <workItem from="1589044109390" duration="30262000" />
+      <workItem from="1589230047669" duration="642000" />
+      <workItem from="1589558392114" duration="938000" />
+      <workItem from="1601479118551" duration="582000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1493" height="183" key="GridCell.Tab.0.bottom" timestamp="1601479700352">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="183" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1601479700352" />
+    <state width="1493" height="183" key="GridCell.Tab.0.center" timestamp="1601479700351">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="183" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1601479700351" />
+    <state width="1493" height="183" key="GridCell.Tab.0.left" timestamp="1601479700351">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="183" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1601479700351" />
+    <state width="1493" height="183" key="GridCell.Tab.0.right" timestamp="1601479700351">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="183" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1601479700351" />
+    <state x="810" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1601479118928">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="810" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1601479118928" />
+  </component>
+</project>
